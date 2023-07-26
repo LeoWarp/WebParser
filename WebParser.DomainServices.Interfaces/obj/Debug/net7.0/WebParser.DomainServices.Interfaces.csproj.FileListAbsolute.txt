@@ -1,0 +1,17 @@
+D:\Программирование\Проекты\WebParser\WebParser.DomainServices.Interfaces\bin\Debug\net7.0\WebParser.DomainServices.Interfaces.deps.json
+D:\Программирование\Проекты\WebParser\WebParser.DomainServices.Interfaces\bin\Debug\net7.0\WebParser.DomainServices.Interfaces.dll
+D:\Программирование\Проекты\WebParser\WebParser.DomainServices.Interfaces\bin\Debug\net7.0\WebParser.DomainServices.Interfaces.pdb
+D:\Программирование\Проекты\WebParser\WebParser.DomainServices.Interfaces\bin\Debug\net7.0\WebParser.Domain.dll
+D:\Программирование\Проекты\WebParser\WebParser.DomainServices.Interfaces\bin\Debug\net7.0\WebParser.Domain.pdb
+D:\Программирование\Проекты\WebParser\WebParser.DomainServices.Interfaces\obj\Debug\net7.0\WebParser.DomainServices.Interfaces.csproj.AssemblyReference.cache
+D:\Программирование\Проекты\WebParser\WebParser.DomainServices.Interfaces\obj\Debug\net7.0\WebParser.DomainServices.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование\Проекты\WebParser\WebParser.DomainServices.Interfaces\obj\Debug\net7.0\WebParser.DomainServices.Interfaces.AssemblyInfoInputs.cache
+D:\Программирование\Проекты\WebParser\WebParser.DomainServices.Interfaces\obj\Debug\net7.0\WebParser.DomainServices.Interfaces.AssemblyInfo.cs
+D:\Программирование\Проекты\WebParser\WebParser.DomainServices.Interfaces\obj\Debug\net7.0\WebParser.DomainServices.Interfaces.csproj.CoreCompileInputs.cache
+D:\Программирование\Проекты\WebParser\WebParser.DomainServices.Interfaces\obj\Debug\net7.0\WebParser.DomainServices.Interfaces.csproj.CopyComplete
+D:\Программирование\Проекты\WebParser\WebParser.DomainServices.Interfaces\obj\Debug\net7.0\WebParser.DomainServices.Interfaces.dll
+D:\Программирование\Проекты\WebParser\WebParser.DomainServices.Interfaces\obj\Debug\net7.0\refint\WebParser.DomainServices.Interfaces.dll
+D:\Программирование\Проекты\WebParser\WebParser.DomainServices.Interfaces\obj\Debug\net7.0\WebParser.DomainServices.Interfaces.pdb
+D:\Программирование\Проекты\WebParser\WebParser.DomainServices.Interfaces\obj\Debug\net7.0\ref\WebParser.DomainServices.Interfaces.dll
+D:\Программирование\Проекты\WebParser\WebParser.DomainServices.Interfaces\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Программирование\Проекты\WebParser\WebParser.DomainServices.Interfaces\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll

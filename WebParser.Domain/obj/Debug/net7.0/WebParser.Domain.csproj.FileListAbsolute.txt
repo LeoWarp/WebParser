@@ -1,0 +1,15 @@
+D:\Программирование\Проекты\WebParser\WebParser.Domain\bin\Debug\net7.0\WebParser.Domain.deps.json
+D:\Программирование\Проекты\WebParser\WebParser.Domain\bin\Debug\net7.0\WebParser.Domain.dll
+D:\Программирование\Проекты\WebParser\WebParser.Domain\bin\Debug\net7.0\WebParser.Domain.pdb
+D:\Программирование\Проекты\WebParser\WebParser.Domain\obj\Debug\net7.0\WebParser.Domain.csproj.AssemblyReference.cache
+D:\Программирование\Проекты\WebParser\WebParser.Domain\obj\Debug\net7.0\WebParser.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование\Проекты\WebParser\WebParser.Domain\obj\Debug\net7.0\WebParser.Domain.AssemblyInfoInputs.cache
+D:\Программирование\Проекты\WebParser\WebParser.Domain\obj\Debug\net7.0\WebParser.Domain.AssemblyInfo.cs
+D:\Программирование\Проекты\WebParser\WebParser.Domain\obj\Debug\net7.0\WebParser.Domain.csproj.CoreCompileInputs.cache
+D:\Программирование\Проекты\WebParser\WebParser.Domain\obj\Debug\net7.0\WebParser.Domain.dll
+D:\Программирование\Проекты\WebParser\WebParser.Domain\obj\Debug\net7.0\refint\WebParser.Domain.dll
+D:\Программирование\Проекты\WebParser\WebParser.Domain\obj\Debug\net7.0\WebParser.Domain.pdb
+D:\Программирование\Проекты\WebParser\WebParser.Domain\obj\Debug\net7.0\ref\WebParser.Domain.dll
+D:\Программирование\Проекты\WebParser\WebParser.Domain\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Программирование\Проекты\WebParser\WebParser.Domain\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\Программирование\Проекты\WebParser\WebParser.Domain\obj\Debug\net7.0\WebParser.Domain.csproj.CopyComplete

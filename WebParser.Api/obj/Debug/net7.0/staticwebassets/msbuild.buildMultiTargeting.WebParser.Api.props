@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebParser.Api.props" />
+</Project>
